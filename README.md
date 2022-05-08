@@ -1,2 +1,2 @@
-# project3
-Class Project Description: For this project, we will use javascript to connect midi controllers and live data streams to produce visual artistic works. The goal of the project is to create novel interpretations of data available on the web by highlighting the internal formal properties, like symmetry and periodic repetition, in our visualizations.
+# Motivation Generator
+Website that is interacted with via a midi controller. Each button is programmed to play a sound clip, change the background of the page to a random color, and display a random motivational quote utilizing an API. The sound clips are free audio loops from Looperman. 
